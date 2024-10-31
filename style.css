@@ -1,9 +1,11 @@
 body{
 color: #1900ff;
 background: black;
+margin: 0px;
 }
 header {
     border-bottom: solid 2px rgb(206, 0, 0);
-    padding: 20px
-    font-size: 32px;
+    padding: 20px0;
+    font-size: 35px;
+    color: 
 }
